@@ -1,7 +1,7 @@
 # Mini Linux Shell - Operating Systems Project
 
-# About the Assignments
-The assignments deal with several fundamental aspects of Operating System Design
+# About the Project
+The project deal with several fundamental aspects of Operating System Design
 
 # Description
 
