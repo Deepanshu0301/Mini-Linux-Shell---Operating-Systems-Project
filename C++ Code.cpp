@@ -1,15 +1,5 @@
-/*
-    Operating Systems Laboratory (CS39002)
-    
-    Group - 26
-
-    Seemant G. Achari  (19CS10055)
-    Rajas Bhatt  (19CS30037)
-
-    Assignment 2
-
-    File  - Assignment2_26_19CS30037_19CS10055.cpp
-*/
+/* Name: Deepanshu Singh */
+/* Roll NUmber: 19MA20013 */
 
 /* C libraries */
 #include <unistd.h>
